@@ -1,0 +1,1002 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"it",
+				"itemize"
+			],
+			[
+				"tab",
+				"tabularx"
+			],
+			[
+				"st",
+				"stderr"
+			],
+			[
+				"fr",
+				"friend"
+			],
+			[
+				"bi",
+				"bitindex"
+			],
+			[
+				"int",
+				"inputfile"
+			],
+			[
+				"c",
+				"char"
+			],
+			[
+				"l",
+				"lstlisting"
+			],
+			[
+				"x",
+				"X"
+			],
+			[
+				"m",
+				"max"
+			],
+			[
+				"in",
+				"index"
+			],
+			[
+				"Fill_ed_stud_",
+				"fill_ed_stud_subject_phase"
+			],
+			[
+				"Fill_ed_stud_s",
+				"fill_ed_stud_scholastic"
+			],
+			[
+				"fill_",
+				"Fill_ed_stud"
+			],
+			[
+				"ed_sti",
+				"ED_STUD_SCHOLASTIC_ID"
+			],
+			[
+				"ed_stud_s",
+				"ed_stud_subject_phase"
+			],
+			[
+				"ed_s",
+				"ed_stud_id"
+			],
+			[
+				"ed",
+				"ed_subject_id"
+			],
+			[
+				"mi",
+				"mis_eas_subject_mapping"
+			],
+			[
+				"que",
+				"question"
+			],
+			[
+				"dec",
+				"dectype"
+			],
+			[
+				"wai",
+				"waitFor"
+			],
+			[
+				"lvl",
+				"level"
+			],
+			[
+				"cl",
+				"click"
+			],
+			[
+				"mis",
+				"mis_id"
+			],
+			[
+				"ta",
+				"task2"
+			],
+			[
+				"My",
+				"MyGcd"
+			],
+			[
+				"dis",
+				"diseases"
+			],
+			[
+				"va",
+				"values"
+			],
+			[
+				"auo",
+				"auto"
+			],
+			[
+				"pa",
+				"parts"
+			],
+			[
+				"sh",
+				"shuffle"
+			],
+			[
+				"op",
+				"option"
+			],
+			[
+				"opt",
+				"options"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "Degree.cpp",
+			"settings":
+			{
+				"buffer_size": 2968,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "BFS.cpp",
+			"settings":
+			{
+				"buffer_size": 9147,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "GraphProgram.cpp",
+			"settings":
+			{
+				"buffer_size": 4010,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "GraphMatRuntime.cpp",
+			"settings":
+			{
+				"buffer_size": 8759,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "PageRank.cpp",
+			"settings":
+			{
+				"buffer_size": 4851,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "MatrixMult.cpp",
+			"settings":
+			{
+				"buffer_size": 2506,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Graph.cpp",
+			"settings":
+			{
+				"buffer_size": 41408,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 127.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: add",
+				"Package Control: Add Repository"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 358.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/cloud/SharePoint/Teaching 16 - Documents/Database course/Exam and Quiz/DB final 2.tex",
+		"/C/Users/khalefa/Downloads/New folder/homepages_en.tql",
+		"/C/cloud/SharePoint/Job search - Documents/Resume/Resume Academia/cover_2.tex",
+		"/C/cloud/SharePoint/Teaching 16 - Documents/Database course/Fall 2016/quiz3.txt",
+		"/C/cloud/SharePoint/Teaching 16 - Documents/Database course/Fall 2016/quiz1.txt",
+		"/C/cloud/SharePoint/Teaching 16 - Documents/Database course/Fall 2016/quiz2.txt",
+		"/C/Users/khalefa/Downloads/recommendation-letter/recommendation-letter/recommendation-letter.tex",
+		"/C/Users/khalefa/Downloads/recommendation-letter/recommendation-letter/recommnation_mostafa.tex",
+		"/C/Users/khalefa/Desktop/cited_facts_en.tql",
+		"/C/Users/khalefa/AppData/Local/Temp/Rar$DRa0.547/images_en.tql",
+		"/C/cloud/SharePoint/Job search - Documents/Resume/Resume Academia/research_2.tex",
+		"/C/cloud/SharePoint/Job search - Documents/Resume/Resume Academia/references.txt",
+		"/C/cloud/SharePoint/Job search - Documents/Resume/Resume Academia/teaching_1.tex",
+		"/C/cloud/SharePoint/Job search - Documents/Resume/Resume Academia/cover.tex",
+		"/C/cloud/SharePoint/Job search - Documents/Resume/Resume Academia/research_1.tex",
+		"/C/cloud/SharePoint/Job search - Documents/Resume/Resume Academia/resume_1.tex",
+		"/C/cloud/SharePoint/Job search - Documents/references.txt",
+		"/C/cloud/SharePoint/Job search - Documents/Portland/diversity.tex",
+		"/C/cloud/SharePoint/Job search - Documents/Portland/teaching_1.tex",
+		"/C/cloud/SharePoint/Job search - Documents/Portland/diversity.txt",
+		"/C/cloud/SharePoint/Job search - Documents/Portland/research_1.tex",
+		"/C/cloud/SharePoint/Job search - Documents/Portland/resume_1.tex",
+		"/C/cloud/SharePoint/Job search - Documents/Portland/cover.tex",
+		"/C/cloud/SharePoint/Job search - Documents/Portland/New Text Document.txt",
+		"/C/cloud/SharePoint/Job search - Documents/Portland/res.cls",
+		"/C/cloud/SharePoint/Teaching 16 - Documents/Database course/Exam and Quiz/DB Final.tex",
+		"/C/cloud/SharePoint/Job search - Documents/Resume/Academia/Cover Letter.tex",
+		"/C/cloud/SharePoint/Job search - Documents/Resume/Academia/resume_1.tex",
+		"/C/cloud/SharePoint/Job search - Documents/Resume/Academia/teaching_1.tex",
+		"/C/cloud/SharePoint/Job search - Documents/Resume/Academia/research_1.tex",
+		"/C/cloud/SharePoint/Job search - Documents/Resume/Academia/delete.bat",
+		"/C/cloud/SharePoint/Job search - Documents/Resume/Academia/Cover Letter Khalefa.txt",
+		"/C/cloud/SharePoint/Job search - Documents/Resume/Academia/teaching.tex",
+		"/C/cloud/SharePoint/Job search - Documents/Resume/Academia/resume.tex",
+		"/C/cloud/SharePoint/Teaching 16 - Documents/Digitial I/Mid term/final.tex",
+		"/C/cloud/SharePoint/Teaching 16 - Documents/Digitial I/Mid term/khalefa_part.tex",
+		"/C/cloud/SharePoint/Teaching 16 - Documents/Digitial I/Mid term/DigitalMT.tex",
+		"/C/cloud/SharePoint/Teaching 16 - Documents/Digitial I/final/final.tex",
+		"/C/Users/khalefa/Desktop/a.tex",
+		"/C/Users/khalefa/Desktop/a",
+		"/C/Users/khalefa/Documents/IISExpress/config/applicationhost.config",
+		"/C/Users/khalefa/Documents/neural_network/Untitled.ipynb",
+		"/C/cloud/SharePoint/Teaching 16 - Documents/Database course/Exam and Quiz/sheet.tex",
+		"/C/cloud/SharePoint/Teaching 16 - Documents/Database course/Exam and Quiz/DB_quiz_1.tex",
+		"/C/cloud/SharePoint/Job search - Documents/Resume/teaching statement/teaching.tex",
+		"/C/cloud/SharePoint/Job search - Documents/Resume/Postdoc/Norway/MohamedKhalefa_v0.tex",
+		"/C/cloud/SharePoint/Job search - Documents/Resume/Academia/MohamedKhalefa_v1.tex",
+		"/E/MohamedKhalefa_v1.tex",
+		"/C/Users/khalefa/AppData/Roaming/Microsoft/Windows/Start Menu/Programs/Anaconda3 (64-bit)/IPython (py27).lnk",
+		"/C/cloud/SharePoint/Teaching 16 - Documents/Database course/Exam and Quiz/DB Midterm II.tex",
+		"/C/Users/khalefa/.ssh/config",
+		"/C/Users/khalefa/Desktop/MegaSync/Teaching/Database course/Exam and Quiz/DB Midterm II.tex",
+		"/C/Users/khalefa/Desktop/MegaSync/Resume/MohamedKhalefa_v0.tex",
+		"/C/Users/khalefa/Desktop/MegaSync/Resume/tmp/MohamedKhalefa.tex",
+		"/C/Users/khalefa/Desktop/TO DO",
+		"/C/Users/khalefa/Desktop/MegaSync/neural_network/a.py",
+		"/C/Users/khalefa/Desktop/MegaSync/Teaching/Database course/Exam and Quiz/DB_quiz_3.tex",
+		"/C/Users/khalefa/Desktop/MegaSync/Teaching/Database course/Exam and Quiz/DB Midterm.tex",
+		"/C/Users/khalefa/code/freebusy-web/.nuget/NuGet.Config",
+		"/C/Users/khalefa/Desktop/MegaSync/neural_network/src/mnist_loader.py",
+		"/C/Users/khalefa/Desktop/related",
+		"/C/Users/khalefa/Desktop/MegaSync/Teaching/DS exam/CS432RemedialDec2016.tex",
+		"/C/cloud/Datasets/samy/icd10cm.uri",
+		"/C/Users/khalefa/Downloads/exam/CS432RemedialDec2016.tex",
+		"/C/Users/khalefa/Downloads/exam/a.tex",
+		"/C/Users/khalefa/Downloads/exam/header.tex",
+		"/C/Users/khalefa/Downloads/exam/exam.cls",
+		"/C/Users/khalefa/Downloads/New folder/New Text Document.txt",
+		"/C/Users/khalefa/Desktop/MegaSync/Resume/MohamedKhalefa_v1.tex",
+		"/C/Users/khalefa/Desktop/MegaSync/Resume/teaching statement/teaching.tex",
+		"/C/Users/khalefa/Desktop/MegaSync/Resume/Research statement/ResearchStatement_0.tex",
+		"/C/Users/khalefa/Desktop/MegaSync/Resume/teaching statement/a.tex",
+		"/C/Users/khalefa/Desktop/a.cc",
+		"/E/teaching.tex",
+		"/C/Users/khalefa/Documents/Activity-1.ipynb",
+		"/C/Users/khalefa/Documents/Activity-1-1.ipynb",
+		"/C/cloud/data/t.txt",
+		"/C/Users/khalefa/Downloads/cv.tex",
+		"/C/Users/khalefa/Desktop/MegaSync/Resume/Research statement/ResearchStatement.pdf",
+		"/C/cloud/Datasets/Edit Distance/a.data",
+		"/C/cloud/Datasets/Edit Distance/log.data",
+		"/C/Users/khalefa/Desktop/write",
+		"/C/Users/khalefa/Desktop/MegaSync/Resume/Research statement/ResearchStatement.tex",
+		"/C/Users/khalefa/Desktop/MegaSync/Resume/covers/C1.txt",
+		"/C/Users/khalefa/Desktop/MegaSync/Resume/covers/cover QAU.txt",
+		"/C/Users/khalefa/Desktop/MegaSync/Resume/covers/coverletter1 .txt",
+		"/C/Users/khalefa/Desktop/MegaSync/Resume/covers/Cover Letter.txt",
+		"/C/Users/khalefa/Desktop/MegaSync/Resume/SELECTION CRITERIA.txt",
+		"/C/Users/khalefa/Desktop/MegaSync/Resume/covers/c2.txt",
+		"/C/Users/khalefa/Desktop/MegaSync/Resume/Norway/MohamedKhalefa_v0.tex",
+		"/C/Users/khalefa/Desktop/MegaSync/Teaching/Database course/Exam/dbquiz2.sql",
+		"/C/Users/khalefa/Desktop/MegaSync/Teaching/Database course/Exam/DB_quiz_2.tex",
+		"/C/Users/khalefa/Desktop/MegaSync/Teaching/Database course/Exam/DB Midterm.tex",
+		"/C/Users/khalefa/Desktop/MegaSync/Teaching/Digitial I/Mid term/magdy_part.tex",
+		"/C/Users/khalefa/Desktop/MegaSync/Teaching/Digitial I/Mid term/DigitalMT.tex",
+		"/C/Users/khalefa/Desktop/MegaSync/Teaching/Digitial I/Mid term/khalefa_part.tex",
+		"/C/Users/khalefa/Desktop/MegaSync/Resume/Mohamed Khalefa is graduated with B.Sc in Computer",
+		"/C/Users/khalefa/Desktop/MegaSync/Resume/Norway/statementOfPurpurpose",
+		"/C/Users/khalefa/Desktop/MegaSync/Exam/midterm - 3 col.tex",
+		"/C/Users/khalefa/Downloads/Final Exam Template SSP.tex",
+		"/C/Users/khalefa/Documents/My DAP Downloads/enron_mail_20150507/maildir/blair-l/meetings___nng_customer_mtg/5",
+		"/C/Users/khalefa/Documents/My DAP Downloads/EnronDataOrg_AED_Mailbox-PSTs_20090122/bailey-s.pst",
+		"/C/Users/khalefa/Desktop/MegaSync/Exam/exam.cls",
+		"/C/Users/khalefa/Desktop/MegaSync/Exam/qs.tex",
+		"/C/Users/khalefa/Desktop/MegaSync/Exam/midterm.tex",
+		"/C/Users/khalefa/Desktop/New folder/t1.tex",
+		"/C/Users/khalefa/Desktop/MegaSync/Exam/questions.txt",
+		"/C/Users/khalefa/Desktop/New folder/lngtable.tex",
+		"/C/Users/khalefa/Desktop/New folder/booktabs.sty",
+		"/C/Users/khalefa/Documents/My DAP Downloads/trip_fare_1.csv/trip_fare_1.csv",
+		"/C/Users/khalefa/Desktop/MegaSync/Exam/questions",
+		"/C/Users/khalefa/Desktop/MegaSync/Resume/statementOfPurpurpose",
+		"/C/Users/khalefa/Desktop/amr_elmasry.txt",
+		"/C/Users/khalefa/Desktop/pagerank.r",
+		"/E/write",
+		"/C/Users/khalefa/Desktop/MegaSync/old/Resume/covers/Cover Letter.txt",
+		"/C/Users/khalefa/Desktop/MegaSync/old/Resume/covers/cover QAU.txt",
+		"/C/Users/khalefa/Desktop/MegaSync/old/Resume/covers/coverletter1 .txt",
+		"/C/Users/khalefa/Desktop/MegaSync/old/Resume/Cover.txt",
+		"/C/Users/khalefa/Desktop/MegaSync/topk/v1.tex",
+		"/C/Users/khalefa/Desktop/MegaSync/Resume/covers/cover letters.txt",
+		"/C/Users/khalefa/Desktop/MegaSync/Resume/cover_1.txt",
+		"/C/Users/khalefa/Desktop/MegaSync/Resume/Cover.txt",
+		"/C/Users/khalefa/Desktop/MegaSync/Resume/covers/cover1.txt",
+		"/C/Users/khalefa/Desktop/topK/hammoud/code",
+		"/C/Users/khalefa/Desktop/topK/hammoud/giraph",
+		"/C/Users/khalefa/Desktop/topK/topk/top_k_edbt.tex",
+		"/C/Users/khalefa/Desktop/topK/topk/intro.tex"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 135.0,
+		"where_history":
+		[
+			"C:\\Users\\khalefa\\Downloads\\xz-5.2.1\\xz-5.2.1\\src\\liblzma\\lzma",
+			"C:\\Users\\khalefa\\Documents\\Visual Studio 2012\\Projects",
+			"C:\\Users\\khalefa\\OneDrive\\Alex Work\\Work\\BrinkoffGenerator\\CompleteSource21",
+			"C:\\Users\\khalefa\\Desktop",
+			"C:\\Users\\khalefa\\AlexU\\It unit\\Projects\\mis\\eas to mis\\mis tables\\*.sql",
+			"C:\\Users\\khalefa\\OneDrive\\Alex Work\\Work\\It unit\\Projects\\mis\\script.sql",
+			"C:\\Users\\khalefa\\OneDrive\\Alex Work\\Work\\It unit\\Projects\\mis\\farouq\\geb-example-gradle-master\\,*.groovy",
+			"C:\\Users\\khalefa\\OneDrive\\Alex Work\\Work\\It unit\\Projects\\mis\\farouq\\geb-example-gradle-master\\*.groovy",
+			"C:\\Users\\khalefa\\OneDrive\\Alex Work\\Work\\It unit\\Projects\\mis\\farouq\\geb-example-gradle-master",
+			"C:\\Users\\khalefa\\SkyDrive\\Alex Work\\Work\\ACCORPA\\Model\\model\\enterprise",
+			"C:\\Users\\khalefa\\SkyDrive\\Alex Work\\Work\\ACCORPA,,<open folders>",
+			"C:\\Users\\khalefa\\SkyDrive\\Alex Work\\Work\\ACCORPA",
+			"C:\\Users\\khalefa\\SkyDrive\\Alex Work\\Work\\It unit\\farouq\\geb-example-gradle-master\\src\\test\\groovy",
+			"C:\\Users\\khalefa\\SkyDrive\\Alex Work\\Work\\ACCORPA\\ITAC",
+			"C:\\mda\\openmdx-openmdx2-example\\helloworld",
+			"C:\\mda\\openmdx-openmdx2-example\\helloworl",
+			"C:\\Users\\khalefa\\SkyDrive\\Alex Work\\Work\\Edit Distance\\Edit Distance\\Winners",
+			"C:\\Users\\khalefa\\SkyDrive\\Alex Work\\Work\\Edit Distance\\Edit Distance\\Winners\\phoenix",
+			"C:\\Users\\khalefa\\SkyDrive\\Alex Work\\Work\\ACCORPA\\Model\\model\\core",
+			"C:\\Users\\khalefa\\SkyDrive\\Alex Work\\Work\\ACCORPA\\Model\\model\\",
+			"C:\\Users\\khalefa\\SkyDrive\\Alex Work\\Work\\ACCORPA\\Model\\model\\core",
+			"C:\\Users\\khalefa\\SkyDrive\\Alex Work\\Work\\ACCORPA\\Model\\model\\",
+			"C:\\Users\\khalefa\\SkyDrive\\Alex Work\\Work\\ACCORPA\\Model\\model\\enterprise",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"examdate",
+			"grid_size",
+			"matrixdc",
+			"run_pagerank",
+			"\\&",
+			"jun",
+			"sigsize",
+			"today",
+			",",
+			"\\tt",
+			"Skills",
+			"skills",
+			"\\tt",
+			"\\c ",
+			"\\tt",
+			"assistant",
+			"adjust",
+			"pharos",
+			"  ",
+			"graduation",
+			"work ex",
+			"{\\em",
+			"  ",
+			" ",
+			"  ",
+			"}",
+			"{\\em",
+			"\\&",
+			",and",
+			"real-world",
+			"but also",
+			"actively",
+			"computer",
+			"%",
+			"teaching",
+			"computer",
+			"Computer Science",
+			"computer sciences",
+			")\n",
+			"\\begin{pa",
+			"3",
+			"addpoin",
+			"addpoints",
+			"fancyvrb",
+			"Ver",
+			"\\runningfoot",
+			"verbatim",
+			"\\usepackage{fancyvrb}",
+			"ceil",
+			"#",
+			"margin",
+			"skills",
+			"\\vspace*{-0.10in}",
+			"\\vspace*{-.15in}",
+			"char",
+			"list2",
+			"oriented",
+			"education",
+			"swork",
+			"\\makeemptybox",
+			"\\Choice",
+			"e.",
+			"d.",
+			"c.",
+			"B.",
+			"A.",
+			"githu",
+			"gist",
+			"tm_rm",
+			"lb->t",
+			"print",
+			"struct libs",
+			"TMPRINT",
+			"tm_rm",
+			"tm_r",
+			"tm_rm",
+			"tm_tm",
+			"tm_rm",
+			"tminit",
+			"tm_rm",
+			"tm_tm",
+			"print",
+			"tm_",
+			"BITSIZE32",
+			"bitpack32",
+			"beenc",
+			"bench",
+			"u ",
+			"print(",
+			"bench",
+			"beenc",
+			"bb",
+			"T_BYTE",
+			"fmt",
+			"-f",
+			"rdmax",
+			"print",
+			"tx",
+			"OVD",
+			"bench",
+			"beenc",
+			"group by",
+			"order by",
+			"where",
+			"from",
+			"select",
+			"quiz",
+			"gray",
+			"swork",
+			"14",
+			"have",
+			"\\vspace{-0.101in}",
+			"\\vpsace{-0.101in}",
+			"\\end{choices}  \n\\end{question} ",
+			"\\vspace{-0.1in}",
+			"vspace{-0.1in}",
+			"tab",
+			"list",
+			"choices",
+			"\\begin{question} ",
+			"\\vspace{-0.1in}",
+			"tabu",
+			"\\vspace{-0.1in} \\begin{choices} \\vspace{-0.1in} ",
+			"\\end{choices} ",
+			"\\begin{choices}",
+			"\\begin{question}",
+			"tabularx",
+			"^\\\\begin{question}.*"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"\\t",
+			"\\cfont ",
+			" ",
+			"",
+			" ",
+			"",
+			"&",
+			"\\#",
+			"\\vspace*{-0.04in}",
+			"\\vspace*{-0.10in}",
+			"\\solspace",
+			"\\CorrectChoice",
+			"\\choice",
+			"GROUP BY",
+			"ORDER BY",
+			"WHERE",
+			"FROM",
+			"SELECT",
+			"\\vspace{-0.21in}",
+			"\\vspace{-0.101in}",
+			"\\end{choices} \\vspace{-0.1in} \n\\end{question} \\vpsace{-0.101in}",
+			"",
+			"enumerate",
+			"list",
+			"",
+			"\\vspace{-0.1in} \\begin{choices}",
+			"\\vspace{-0.1in} \\end{choices}",
+			"\\vspace{-0.1in} \\end{choices} \\vspace{-0.1in} ",
+			"\\vspace{-0.1in} \\begin{choices} \\vspace{-0.1in} ",
+			"\\begin{question} \\vspace{-0.1in}",
+			"{$1}",
+			"\\\\end{choices}\\n\\\\end{question}\\n\\\\begin{question}",
+			"\\\\end{choices}\\\\end{question}\\n\\\\begin{question}",
+			"\\\\end{choices}\\\\end{question}\\\\begin{question}",
+			"\\end{choices}\\end{question}\\begin{question}",
+			"\\choice",
+			",20",
+			",30",
+			"iHub",
+			"\\t",
+			"\\t delta",
+			"",
+			"\\t xz \\t",
+			"\\t hist \\t",
+			"\\t hist2 \\t",
+			"",
+			"\\tdelta",
+			",",
+			"\\t",
+			"",
+			"\\n",
+			"",
+			"\\t",
+			"\\txz \\t ",
+			"\\thist2 \\t ",
+			"hist2 \\t ",
+			"",
+			",",
+			"",
+			"\\t",
+			" ",
+			"",
+			"\\t",
+			" ",
+			"\\t",
+			" ",
+			"\\t",
+			"",
+			"\\t",
+			"",
+			"\\t",
+			",",
+			"",
+			"library",
+			"\\t",
+			",",
+			"\\t",
+			"t",
+			"\\ifprintanswers\n\\else \n\\fillwithdottedlines{\\ah}\n\\fi\n",
+			"\\ifprintanswers\n\\else \n\\fillwithdottedlines{\\la}\n\\fi\n",
+			"\\ifprintanswers\n\\else \n\\answerline\n\\fi\n",
+			"/home/pg/install/",
+			"submit",
+			",",
+			"itunit",
+			"\\t",
+			",",
+			"ahmed.elsayed",
+			"ahmedsayed",
+			"hesham_elk",
+			"",
+			"Yousry Taha",
+			"mehussein",
+			"moustafa.meshry",
+			"islam",
+			"nuclear",
+			"mis",
+			"control",
+			"mis",
+			"control",
+			",",
+			"",
+			"Mohammed",
+			"D.",
+			"Dr.Mohamed.Ghazy",
+			"Mohammed",
+			"D.Mohamed.Ghazy",
+			"control_",
+			"oneparchoices",
+			"\\begin{question}",
+			"\\end{choice}\\begin{choice}",
+			"\\begin{choice}",
+			"itemize",
+			"",
+			"\\begin{minipage}{.45\\textwidth}",
+			"itunit",
+			"",
+			":rdf",
+			"</rdf",
+			"<rdf",
+			"\\trdf",
+			"\\t\\t\\t",
+			",",
+			"\\n",
+			"\\t",
+			"",
+			",",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "Degree.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2968,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2882,
+								2882
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 581.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "BFS.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 9147,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4124,
+								4124
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1656.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "GraphProgram.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4010,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2645,
+								2645
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 406.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "GraphMatRuntime.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8759,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2844,
+								2844
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 746.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "PageRank.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4851,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2735,
+								2735
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 466.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "MatrixMult.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2506,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2,
+								2
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "Graph.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 41408,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								29922,
+								29922
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 20700.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 43.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "hammoud.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"pref",
+				"core\\src\\main\\java\\org\\apache\\mahout\\cf\\taste\\model\\PreferenceArray.java"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\khalefa\\SkyDrive\\Alex Work\\Work\\Skyline Hadoop\\paper\\a.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 127.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"inse",
+				"insertTrie"
+			],
+			[
+				"m",
+				"MatchDocument"
+			],
+			[
+				"Mat",
+				"MatchDocument"
+			]
+		],
+		"width": 392.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 379.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
