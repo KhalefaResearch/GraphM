@@ -77,12 +77,14 @@ void run_matrix_mult(const char* filename_A, const char* filename_B,int nthreads
   A.ReadMTX(filename_A, nthreads*4); //nthread pieces of matrix
   B.ReadMTX(filename_B, nthreads*4); //nthread pieces of matrix
   
- MatrixDC<edge>* Bm = *(B.matT);
-  
+
+ for(int j=0;j<B.nparts;j++){ 
+ MatrixDC<edge>* Bm = B.matT[j];
   for(int i=0; i<Bm->nzx ;i++){
     SparseVector<edge>  r =Bm->getRow(i);
     matrix_col_mult(A,r );
   }
+}
  
   gettimeofday(&end, 0);
   double time = (end.tv_sec-start.tv_sec)*1e3+(end.tv_usec-start.tv_usec)*1e-3;
